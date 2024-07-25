@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajeswari-Machina
-- 👀 I’m interested in web development , machina learning
+- 👀 I’m interested in web development , machine learning
 - 🌱 I’m currently learning web development,data science through python.
 - 💞️ I’m looking to collaborate on any projects related to web development ,python.
 - 📫 How to reach me drop a mail to rajeswarimachina02@gmail.com
