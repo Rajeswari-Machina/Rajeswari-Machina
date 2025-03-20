@@ -81,7 +81,7 @@ I focus on clean design, efficient development, and delivering reliable solution
 ### IDEs:
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25px"/>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25px"/>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Jupyter_Notebook-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25px"/>
 </p>
 
 
@@ -89,18 +89,17 @@ I focus on clean design, efficient development, and delivering reliable solution
 
 ## 🌐 Coding Profiles:
 <p align="center">
-<a href="https://leetcode.com/RevanthKumarJ/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="30px"/></a>
-<a href="https://auth.geeksforgeeks.org/user/jrevanth/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GFG-%231DBF73.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30px"/></a>
-<a href="https://www.codechef.com/users/revanthkumarj1" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23B05128.svg?&style=for-the-badge&logo=codechef&logoColor=white" height="30px"/></a>
-<a href="https://www.hackerrank.com/jrevanth101" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%231F8ACB.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height="30px"/></a>
-<a href="https://www.naukri.com/code360/profile/revanthKumarJ" target="_blank"><img alt="Coding Ninjas" src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" height="30px"/></a>
+<a href="https://auth.geeksforgeeks.org/user/rajeswarimz1oa/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GFG-%231DBF73.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30px"/></a>
+<a href="https://www.naukri.com/code360/profile/10ed2d8a-f64b-4e2d-9e67-e0180b5dd5f5" target="_blank"><img alt="Coding Ninjas" src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" height="30px"/></a>
+<a href="https://leetcode.com/u/rajeswarimachina02/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="30px"/></a>
+
 <!-- <a href="https://atcoder.jp/users/RevanthKumarJ" target="_blank"><img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-%230A9DC7.svg?&style=for-the-badge&logo=atcoder&logoColor=white" height="30px"/></a>
 <a href="https://codeforces.com/profile/RevanthKumarJ" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height="30px"/></a> -->
 </p>
 
-## ❤️ Let's get connected:
+## 🤝 Let's get connected:
 <p align="center">
-<a href="https://www.linkedin.com/in/jilakararevanthkumar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+<a href="https://www.linkedin.com/in/rajeswari-machina/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 <!-- <a href="https://www.instagram.com/your_instagram_profile/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30px"/></a>
 <a href="https://twitter.com/your_twitter_profile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/></a> -->
 </p>
