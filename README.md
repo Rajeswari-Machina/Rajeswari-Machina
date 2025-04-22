@@ -55,7 +55,15 @@ I'm Rajeswari Machina, a Computer Science Engineering student with a strong foun
 ### Database:
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" height="25px"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
+
+</p>
+
+### Deployment:
+<p>
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-13aa52?style=for-the-badge&logo=vercel&logoColor=white" height="25px"/>
+  <img alt="Render" src="https://img.shields.io/badge/Render-4479A1?style=for-the-badge&logo=render&logoColor=white" height="25px"/>
+  <img alt="Railway" src="https://img.shields.io/badge/Railway-4479A1?style=for-the-badge&logo=railway&logoColor=white" height="25px"/>
 
 </p>
 
